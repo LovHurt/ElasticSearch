@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "gIIgLbhQsdQ1wpXJTtuIYbkovJWrdHf+/TvwR7XKV0fdXjw2FCYpzzr6piUTByzHYb5efBXBfdNRcfOBvtPVSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\buse\\Desktop\\project\\ElasticSearch\\MinimalWebAPI\\MinimalWebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\buse\\.nuget\\packages\\bogus\\35.6.1\\bogus.35.6.1.nupkg.sha512",
+    "C:\\Users\\buse\\.nuget\\packages\\elastic.clients.elasticsearch\\8.15.8\\elastic.clients.elasticsearch.8.15.8.nupkg.sha512",
+    "C:\\Users\\buse\\.nuget\\packages\\elastic.transport\\0.4.22\\elastic.transport.0.4.22.nupkg.sha512",
+    "C:\\Users\\buse\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\buse\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\buse\\.nuget\\packages\\swashbuckle.aspnetcore\\6.8.1\\swashbuckle.aspnetcore.6.8.1.nupkg.sha512",
+    "C:\\Users\\buse\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.8.1\\swashbuckle.aspnetcore.swagger.6.8.1.nupkg.sha512",
+    "C:\\Users\\buse\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.8.1\\swashbuckle.aspnetcore.swaggergen.6.8.1.nupkg.sha512",
+    "C:\\Users\\buse\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.8.1\\swashbuckle.aspnetcore.swaggerui.6.8.1.nupkg.sha512"
+  ],
+  "logs": []
+}
